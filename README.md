@@ -8,10 +8,10 @@ In this dataset, we have more than 123000 rows and 12 columns, a fairly large da
 
 In Data Analysis what all things we do
 
-Handling Missing Values
-Explore numerical features.
-Explore categorical features.
-Finding relations between features.
+* Handling Missing Values
+* Explore numerical features.
+* Explore categorical features.
+* Finding relations between features.
 
 The dataset contains all types of data types along with missing values. Perform data cleaning first before plotting data for EDA.
 The Zomato Restaurants Dataset for Metropolitan Areas of 13 cities in India provides comprehensive information about restaurants in these urban centers. This dataset consists of 12 columns, each representing a specific attribute of the restaurants.
